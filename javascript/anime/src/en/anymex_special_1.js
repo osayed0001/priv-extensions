@@ -1,15 +1,15 @@
 const mangayomiSources = [
   {
-    name: "AnymeX Special #1",
-    lang: "en",
-    baseUrl: "https://xprime.tv",
-    apiUrl: "",
-    iconUrl:
+    "name": "AnymeX Special #1",
+    "lang": "en",
+    "baseUrl": "https://xprime.tv",
+    "apiUrl": "",
+    "iconUrl":
       "https://raw.githubusercontent.com/RyanYuuki/AnymeX/main/assets/images/logo.png",
-    typeSource: "single",
-    itemType: 1,
-    version: "0.0.3",
-    pkgPath: "anime/src/en/anymex_special_1.js",
+    "typeSource": "single",
+    "itemType": 1,
+    "version": "0.0.3",
+    "pkgPath": "anime/src/en/anymex_special_1.js",
   },
 ];
 

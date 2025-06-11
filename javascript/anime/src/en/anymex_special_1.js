@@ -8,7 +8,7 @@ const mangayomiSources = [
       "https://raw.githubusercontent.com/RyanYuuki/AnymeX/main/assets/images/logo.png",
     typeSource: "single",
     itemType: 1,
-    version: "0.0.2",
+    version: "0.0.3",
     pkgPath: "anime/src/en/anymex_special_1.js",
   },
 ];

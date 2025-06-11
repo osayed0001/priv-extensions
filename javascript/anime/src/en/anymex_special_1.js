@@ -28,7 +28,7 @@ class DefaultExtension extends MProvider {
     return dataArr.map((e) => {
       return {
         name: e.title ?? e.name,
-        link: `https://api.themoviedb.org/3/${type}/${e.id}?api_key=84259f99204eeb7d45c7e3d8e36c6123`,
+        link: `https://tmdb.hexa.watch/api/tmdb/${type}/${e.id}`,
         imageUrl:
           "https://image.tmdb.org/t/p/w500" +
           (e.poster_path ?? e.backdrop_path),

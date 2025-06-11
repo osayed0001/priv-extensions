@@ -1,5 +1,4 @@
-const mangayomiSources = [
-  {
+const mangayomiSources = [{
     "name": "AnymeX Special #1",
     "lang": "en",
     "baseUrl": "https://xprime.tv",
@@ -10,8 +9,7 @@ const mangayomiSources = [
     "itemType": 1,
     "version": "0.0.3",
     "pkgPath": "anime/src/en/anymex_special_1.js",
-  },
-];
+  }];
 
 class DefaultExtension extends MProvider {
   constructor() {

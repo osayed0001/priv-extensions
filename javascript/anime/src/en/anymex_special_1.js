@@ -7,7 +7,7 @@ const mangayomiSources = [{
     "typeSource": "single",
     "itemType": 1,
     "version": "0.0.1",
-    "pkgPath": ""
+    "pkgPath": "anime/src/en/anymex_special_1.js"
 }];
 
 class DefaultExtension extends MProvider {

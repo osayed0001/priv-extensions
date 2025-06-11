@@ -6,7 +6,7 @@ const mangayomiSources = [{
     "iconUrl": "https://raw.githubusercontent.com/RyanYuuki/AnymeX/main/assets/images/logo.png",
     "typeSource": "single",
     "itemType": 1,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "pkgPath": "anime/src/en/anymex_special_1.js"
 }];
 
@@ -122,7 +122,7 @@ class DefaultExtension extends MProvider {
 
         return {
             name,
-            chapters
+            chapters: chapters.reverse()
         };
     }
 

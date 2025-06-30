@@ -1813,7 +1813,7 @@
   "dateFormat": "",
   "dateFormatLocale": "en_us",
   "isNsfw": false,
-  "hasCloudflare": false,
+  "hasCloudflare": true,
   "sourceCodeUrl": "https://raw.githubusercontent.com/osayed0001/priv-extensions/main/sources/manga18fx.js",
   "apiUrl": "",
   "version": "0.1.0",

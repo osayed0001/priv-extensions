@@ -1808,7 +1808,7 @@
   "id": 990001818,
   "baseUrl": "https://manga18fx.com",
   "lang": "en",
-  "typeSource": "custom",
+  "typeSource": "single",
   "iconUrl": "https://manga18fx.com/favicon.ico",
   "dateFormat": "",
   "dateFormatLocale": "en_us",

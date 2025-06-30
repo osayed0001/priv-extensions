@@ -1814,7 +1814,7 @@
   "dateFormatLocale": "en_us",
   "isNsfw": false,
   "hasCloudflare": false,
-  "sourceCodeUrl": "https://raw.githubusercontent.com/osayed0001/priv-extensions/main/sources/manga18fx.json",
+  "sourceCodeUrl": "https://raw.githubusercontent.com/osayed0001/priv-extensions/main/sources/manga18fx.js",
   "apiUrl": "",
   "version": "0.1.0",
   "isManga": true,

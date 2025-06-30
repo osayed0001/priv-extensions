@@ -1,0 +1,28 @@
+{
+  "id": "manga18fx",
+  "name": "Manga18FX",
+  "baseUrl": "https://manga18fx.com",
+  "isNsfw": true,
+  "lang": "en",
+  "type": "manga",
+  "sources": [
+    {
+      "name": "Latest",
+      "path": "/latest",
+      "type": "listing",
+      "selectors": {
+        "item": ".page-item-detail",
+        "title": ".page-item-detail .page-item-detail-content h3 a",
+        "url": ".page-item-detail .page-item-detail-content h3 a[href]",
+        "thumbnail": ".page-item-detail img[src]",
+        "description": ".page-item-detail .page-item-detail-content .description",
+        "chapterList": ".chapter-list li a[href]"
+      }
+    }
+  ],
+  "chapter": {
+    "selectors": {
+      "pages": ".reading-content img[src]"
+    }
+  }
+}

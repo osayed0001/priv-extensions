@@ -20,7 +20,8 @@ async search(query, page = 1) {
       title: a?.textContent.trim() || "No Title",
       url: a?.href || "",
       thumbnail: img?.src || "",
-      description: "" // no reliable selector for description in your snippet
+      description: ""
     };
   });
 }
+

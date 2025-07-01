@@ -1826,19 +1826,25 @@
   "notes": "Unofficial NSFW source"
 },
   {
-  "name": "Manhwa18",
-  "id": 990002345,
-  "baseUrl": "https://manhwa18.org",
-  "lang": "en",
-  "typeSource": "single",
-  "iconUrl": "https://manhwa18.org/favicon.ico",
-  "isNsfw": true,
-  "hasCloudflare": false,
-  "sourceCodeUrl": "https://raw.githubusercontent.com/osayed0001/priv-extensions/main/sources/manhwa18.js",
-  "sourceCodeLanguage": 1,
-  "version": "0.1.0",
-  "isManga": true,
-  "appMinVerReq": "0.5.0",
-  "notes": "Simple NSFW Madara source"
-}
+    "name": "Manhwa18",
+    "id": 990002345,
+    "baseUrl": "https://manhwa18.org",
+    "lang": "en",
+    "typeSource": "single",
+    "iconUrl": "https://manhwa18.org/favicon.ico",
+    "dateFormat": "",
+    "dateFormatLocale": "en_us",
+    "isNsfw": false,
+    "hasCloudflare": false,
+    "sourceCodeUrl": "https://raw.githubusercontent.com/osayed0001/priv-extensions/main/sources/manhwa18.js",
+    "apiUrl": "",
+    "version": "0.1.0",
+    "isManga": true,
+    "itemType": 0,
+    "isFullData": false,
+    "appMinVerReq": "0.5.0",
+    "additionalParams": "",
+    "sourceCodeLanguage": 1,
+    "notes": ""
+  }
 ]
